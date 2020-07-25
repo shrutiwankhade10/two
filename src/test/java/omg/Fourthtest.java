@@ -30,5 +30,10 @@ public class Fourthtest extends base {
 		return data;
 		
 	}
+	
+	@Test
+	public void gelo() {
+		System.out.println("pouy");
+	}
 
 }
